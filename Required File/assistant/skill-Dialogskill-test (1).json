@@ -1,0 +1,1092 @@
+{
+  "intents": [
+    {
+      "intent": "General_Human_or_Bot",
+      "examples": [
+        {
+          "text": "Are you even real?"
+        },
+        {
+          "text": "Are you a robot?"
+        },
+        {
+          "text": "Are you a human or a bot?"
+        },
+        {
+          "text": "Am I talking to a person or am I talking to an AI?"
+        },
+        {
+          "text": "Am I talking to a Bot?"
+        },
+        {
+          "text": "Am I talking to Watson?"
+        },
+        {
+          "text": "Am I chatting with a human?"
+        },
+        {
+          "text": "Tell me, are you a human or no?"
+        },
+        {
+          "text": "Is this a computer?"
+        },
+        {
+          "text": "How can you prove you are a human?"
+        },
+        {
+          "text": "Are you real?"
+        },
+        {
+          "text": "Are you human?"
+        }
+      ],
+      "description": "Ask if speaking to a human or a bot."
+    },
+    {
+      "intent": "General_Agent_Capabilities",
+      "examples": [
+        {
+          "text": "Do you have a list of things I can talk to you about?"
+        },
+        {
+          "text": "Help now"
+        },
+        {
+          "text": "Hi, what do you do?"
+        },
+        {
+          "text": "How can I use you?"
+        },
+        {
+          "text": "How can you help me?"
+        },
+        {
+          "text": "How can you solve my problems?"
+        },
+        {
+          "text": "I'd like to know what type of questions you can answer for me."
+        },
+        {
+          "text": "Is there anything you can help me with?"
+        },
+        {
+          "text": "Tell me about what kind of things you do?"
+        },
+        {
+          "text": "Tell me something"
+        },
+        {
+          "text": "What are my options that you can help with?"
+        },
+        {
+          "text": "What are my options?"
+        },
+        {
+          "text": "What are you able to deal with?"
+        },
+        {
+          "text": "What are you able to understand?"
+        },
+        {
+          "text": "What are you capable of?"
+        },
+        {
+          "text": "What are you good at?"
+        },
+        {
+          "text": "What are you used for?"
+        },
+        {
+          "text": "What can I ask you to do?"
+        },
+        {
+          "text": "What are your skills?"
+        },
+        {
+          "text": "Where can I find the frequently asked questions?"
+        },
+        {
+          "text": "What kinds of things can you do?"
+        },
+        {
+          "text": "What is this 4?"
+        },
+        {
+          "text": "What features are in here?"
+        },
+        {
+          "text": "What else can you help me with?"
+        },
+        {
+          "text": "What do you handle?"
+        },
+        {
+          "text": "What do you do?"
+        },
+        {
+          "text": "How do I use you?"
+        },
+        {
+          "text": "I do not know what to ask"
+        },
+        {
+          "text": "Can you please give me a list of the types of things you can help me with?"
+        },
+        {
+          "text": "Can you tell me what services you are able to help me with?"
+        }
+      ],
+      "description": "Request capabilities of the bot."
+    },
+    {
+      "intent": "General_Greetings",
+      "examples": [
+        {
+          "text": "How have you been?"
+        },
+        {
+          "text": "Good day"
+        },
+        {
+          "text": "Good evening"
+        },
+        {
+          "text": "Good morning"
+        },
+        {
+          "text": "Good to see you"
+        },
+        {
+          "text": "Greetings"
+        },
+        {
+          "text": "Have you been well?"
+        },
+        {
+          "text": "Hello Agent"
+        },
+        {
+          "text": "Hello I am looking for some help here"
+        },
+        {
+          "text": "Hello"
+        },
+        {
+          "text": "Hey how are you doing"
+        },
+        {
+          "text": "Hey there all"
+        },
+        {
+          "text": "Hey there"
+        },
+        {
+          "text": "Hey twin"
+        },
+        {
+          "text": "Hey you"
+        },
+        {
+          "text": "Hi advisor"
+        },
+        {
+          "text": "Hi there"
+        },
+        {
+          "text": "How are things going?"
+        },
+        {
+          "text": "How are you today?"
+        },
+        {
+          "text": "How is it going?"
+        },
+        {
+          "text": "How r u?"
+        },
+        {
+          "text": "Looking good eve"
+        },
+        {
+          "text": "Ok take me back"
+        },
+        {
+          "text": "What's new?"
+        },
+        {
+          "text": "What's up?"
+        },
+        {
+          "text": "Who is this?"
+        },
+        {
+          "text": "You there"
+        }
+      ],
+      "description": "Greet the bot."
+    },
+    {
+      "intent": "General_About_You",
+      "examples": [
+        {
+          "text": "What should I know about you?"
+        },
+        {
+          "text": "What's your name?"
+        },
+        {
+          "text": "Where are you from?"
+        },
+        {
+          "text": "Where were you born?"
+        },
+        {
+          "text": "Who are you?"
+        },
+        {
+          "text": "Why are you here?"
+        },
+        {
+          "text": "Can I use another language?"
+        },
+        {
+          "text": "Describe your self"
+        },
+        {
+          "text": "Do you have a name?"
+        },
+        {
+          "text": "Do you know who you are?"
+        },
+        {
+          "text": "How do you function?"
+        },
+        {
+          "text": "How old are you?"
+        },
+        {
+          "text": "I want to set up the chat bot for my shop"
+        },
+        {
+          "text": "How can I configure you?"
+        },
+        {
+          "text": "Introduce your self"
+        },
+        {
+          "text": "Let us talk about you"
+        },
+        {
+          "text": "Tell me about your life"
+        },
+        {
+          "text": "Tell me something about yourself"
+        },
+        {
+          "text": "About you"
+        },
+        {
+          "text": "What languages do you speak?"
+        }
+      ],
+      "description": "Request generic personal attributes."
+    },
+    {
+      "intent": "General_Connect_to_Agent",
+      "examples": [
+        {
+          "text": "I don't want to talk to you"
+        },
+        {
+          "text": "I need to speak to a representative. How would I go about doing so?"
+        },
+        {
+          "text": "I want a manager"
+        },
+        {
+          "text": "I want agent"
+        },
+        {
+          "text": "I want an agent to help me"
+        },
+        {
+          "text": "I want to talk to a person"
+        },
+        {
+          "text": "I would like to speak to a human"
+        },
+        {
+          "text": "I would like to speak to someone"
+        },
+        {
+          "text": "Is there anyone there I can actually talk to for real?"
+        },
+        {
+          "text": "Need help from human"
+        },
+        {
+          "text": "Operator please"
+        },
+        {
+          "text": "Please assist me to get to an agent"
+        },
+        {
+          "text": "Please connect me to a live agent"
+        },
+        {
+          "text": "Please let me talk to a human being."
+        },
+        {
+          "text": "Pls connect"
+        },
+        {
+          "text": "Put me through to someone"
+        },
+        {
+          "text": "Send me to an agent"
+        },
+        {
+          "text": "Where is the closest agent?"
+        },
+        {
+          "text": "Yes, take me to a real person"
+        },
+        {
+          "text": "A real agent, please."
+        },
+        {
+          "text": "Agent help"
+        },
+        {
+          "text": "Call agent"
+        },
+        {
+          "text": "Can I connect to an agent?"
+        },
+        {
+          "text": "Can I speak to a human please?"
+        },
+        {
+          "text": "Can I speak to a live person?"
+        },
+        {
+          "text": "Can I speak to an advisor?"
+        },
+        {
+          "text": "Can I speak with somebody?"
+        },
+        {
+          "text": "Can I talk to someone?"
+        },
+        {
+          "text": "Can you assist me to connect to an agent?"
+        },
+        {
+          "text": "Can you connect me with a real person?"
+        },
+        {
+          "text": "Connect me to a live operator please."
+        },
+        {
+          "text": "Contact person"
+        },
+        {
+          "text": "Could you please transfer me to your master?"
+        },
+        {
+          "text": "Customer service representative please."
+        },
+        {
+          "text": "Do not want a robot?"
+        },
+        {
+          "text": "Hi can you transfer me"
+        },
+        {
+          "text": "How can I skip the recorded menu and go straight to a live person?"
+        },
+        {
+          "text": "I don't want to talk to a bot."
+        }
+      ],
+      "description": "Request a human agent."
+    },
+    {
+      "intent": "General_Ending",
+      "examples": [
+        {
+          "text": "I d like to stop doing this"
+        },
+        {
+          "text": "I am out of here"
+        },
+        {
+          "text": "I am leaving"
+        },
+        {
+          "text": "Hey bot go away"
+        },
+        {
+          "text": "Have a nice day?"
+        },
+        {
+          "text": "Goodbye"
+        },
+        {
+          "text": "Good. bye."
+        },
+        {
+          "text": "Going now"
+        },
+        {
+          "text": "Get lost"
+        },
+        {
+          "text": "Finished now, good bye"
+        },
+        {
+          "text": "Ending this session"
+        },
+        {
+          "text": "End trial"
+        },
+        {
+          "text": "Cya later"
+        },
+        {
+          "text": "Catch you later"
+        },
+        {
+          "text": "Bye now"
+        },
+        {
+          "text": "Bye bye"
+        },
+        {
+          "text": "Go off"
+        },
+        {
+          "text": "Go away"
+        },
+        {
+          "text": "I'm done"
+        },
+        {
+          "text": "Im done"
+        },
+        {
+          "text": "Im good thank you"
+        },
+        {
+          "text": "I'm leaving now"
+        },
+        {
+          "text": "It was nice chatting with you"
+        },
+        {
+          "text": "Ok goodbye"
+        },
+        {
+          "text": "See you later"
+        },
+        {
+          "text": "See you"
+        },
+        {
+          "text": "Shut up"
+        },
+        {
+          "text": "Stop doing this"
+        },
+        {
+          "text": "Stop talking to me"
+        },
+        {
+          "text": "Thank you for your time"
+        },
+        {
+          "text": "Thanks, bye!"
+        },
+        {
+          "text": "Thanks very much, bye!"
+        },
+        {
+          "text": "That is all"
+        },
+        {
+          "text": "That's everything"
+        },
+        {
+          "text": "Time to go"
+        },
+        {
+          "text": "I want to quit"
+        },
+        {
+          "text": "I have got to go"
+        }
+      ],
+      "description": "End the conversation."
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Welcome",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Hospital",
+          "synonyms": [
+            "hospitals",
+            "hosptial",
+            "clinic",
+            "hopital"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Pharmacy",
+          "synonyms": [
+            "pharmacies",
+            "drugstore",
+            "pharmacists",
+            "prescription",
+            "pharmaceuticals",
+            "perscription"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Doctors",
+          "synonyms": [
+            "doctor",
+            "docter",
+            "doctors"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Yes",
+          "synonyms": [
+            "Yes",
+            "y"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "No",
+          "synonyms": [
+            "No",
+            "N"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Paracetamol",
+          "synonyms": [
+            "Paracetamol"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Robitussin",
+          "synonyms": [
+            "Robitussin"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Chloroquine",
+          "synonyms": [
+            "Chloroquine"
+          ]
+        },
+        {
+          "type": "patterns",
+          "value": "HName",
+          "patterns": [
+            "^[a-zA-Z][a-zA-Z\\s]*$"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Med1",
+          "synonyms": [
+            "med1"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Appointment",
+          "synonyms": [
+            "appointments",
+            "reappointment",
+            "appoinment",
+            "apointment",
+            "consultation",
+            "meetings"
+          ]
+        }
+      ],
+      "fuzzy_match": false
+    }
+  ],
+  "metadata": {
+    "api_version": {
+      "major_version": "v2",
+      "minor_version": "2018-11-08"
+    },
+    "from-sample": true
+  },
+  "webhooks": [
+    {
+      "url": "https://api.us-south.language-translator.watson.cloud.ibm.com/v3/translate?version=2018-05-01",
+      "name": "main_webhook",
+      "headers": [
+        {
+          "name": "Content-Type",
+          "value": "application/json"
+        },
+        {
+          "name": "Authorization",
+          "value": "Basic bWFkaHVwYXJuYS5iaXN3YXNAY29nbml6YW50LmNvbTpsYXNtb3dlZ2hpcg=="
+        }
+      ]
+    }
+  ],
+  "dialog_nodes": [
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Pharmacy Name:Aarogya Medico & Kalpataru Medical Hall\nStock Available  :10 units.\nAddress               :2, Chowhati Dhamaitala More, Rajpur, Kolkata - 700149, On Dhamaitala Bypass Connector\nMap:<a href=\"https://www.google.com/maps/place/Arogya+Medico/@22.5613329,88.1896813,12z/data=!4m8!1m2!2m1!1saarogya+medico+near+Kalpataru+medical+hall,+Dwarir+Road,+Dakshin+Jagaddal,+Narendrapur,+Kolkata,+West+Bengal!3m4!1s0x0:0x5e47784e47b54ec8!8m2!3d22.5793426!4d88.2358789\" target=\"_blank\">Map</a>\nPhone                  :9152245023"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1595375361308",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_10_1596030643483"
+      },
+      "conditions": "@Welcome:Robitussin",
+      "dialog_node": "node_1_1596106168026",
+      "previous_sibling": "node_5_1596104919263"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Pharmacy :Frank Ross Pharmacy\nUnits Available:54\nAddress    :60B, 30, Raja Subodh Chandra Mallick Rd, near Market, Baghajatin Colony, Kolkata, \n                    West Bengal 700092\nLocation:<a href=\"https://www.google.com/maps/dir/22.4805796,88.3733165/60B,+Frank+Ross+Pharmacy+-+Baghajatin+Branch,+30,+Raja+Subodh+Chandra+Mallick+Rd,+near+Market,+Baghajatin+Colony,+Kolkata,+West+Bengal+700092/@22.4821289,88.3721673,17z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x3a027111070577cb:0xa169712cb2e9adf8!2m2!1d88.3753639!2d22.4836605\" target=\"_blank\">Map</a>\nPhone:090731 90149"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1595375361308",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_10_1596030643483"
+      },
+      "conditions": "@Welcome:HName",
+      "dialog_node": "node_5_1596106886301",
+      "previous_sibling": "node_3_1596106435791"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Pharmacy Name:Sree Ramkrishna Medical\nStock Available  :43 units.\nAddress               :7A, Lake Place, Sarat Bose Road, Kolkata - 700029, Near Charu Chandra College, Lake Market Area\nMap                       :<a href=\"https://www.google.com/maps/place/Sree+Ramkrishna+Medical/@22.5155777,88.3478472,17z/data=!3m1!4b1!4m5!3m4!1s0x3a0270cccf8d9eeb:0x9e00be89c0151af4!8m2!3d22.5155728!4d88.3500359\" target=\"_blank\">Map</a>\nPhone                  :91412895023"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1595375361308",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_10_1596030643483"
+      },
+      "conditions": "@Welcome:Chloroquine",
+      "dialog_node": "node_3_1596106435791",
+      "previous_sibling": "node_1_1596106168026"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Pharmacy Name: Holy Trust Pharmacy\nStock Available  :300 units.\nAddress                :Ramkrishna Pally, Gauranga Nagar, New Town, Kolkata - 700156, Near \n                               Newtown Bustand, Beside Rohra Height Complex.\nLocation                :<a href=\"https://www.google.com/maps/place/HOLY+TRUST+PHARMACY/@22.5899199,88.4517284,17z/data=!3m1!4b1!4m5!3m4!1s0x3a02756cb91f2e27:0x4745bcc2897e50b1!8m2!3d22.5899199!4d88.4539171\" target=\"_blank\">Map</a>\n\nPhone                    :8100691839"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1595375361308",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_10_1596030643483"
+      },
+      "conditions": "@Welcome:Paracetamol",
+      "dialog_node": "node_5_1596104919263"
+    },
+    {
+      "type": "standard",
+      "parent": "node_10_1596030643483",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_9_1593690044124"
+      },
+      "conditions": "@Welcome:No",
+      "dialog_node": "node_5_1596036433403",
+      "previous_sibling": "node_3_1596036229681"
+    },
+    {
+      "type": "standard",
+      "parent": "node_10_1596030643483",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "Welcome"
+      },
+      "conditions": "@Welcome:Yes",
+      "dialog_node": "node_3_1596036229681"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "There are 28 beds available currently at this hospital."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1595374426834",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_10_1596030643483"
+      },
+      "conditions": "@Welcome:HName",
+      "dialog_node": "node_7_1595544078303"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "title": "Select a medicine name",
+            "options": [
+              {
+                "label": "Paracetamol",
+                "value": {
+                  "input": {
+                    "text": "Paracetamol"
+                  }
+                }
+              },
+              {
+                "label": "Chloroquine",
+                "value": {
+                  "input": {
+                    "text": "Chloroquine"
+                  }
+                }
+              },
+              {
+                "label": "Robitussin",
+                "value": {
+                  "input": {
+                    "text": "Robitussin"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          },
+          {
+            "values": [
+              {
+                "text": "Or enter the medicine name"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "@Welcome:Pharmacy",
+      "dialog_node": "node_4_1595375361308",
+      "previous_sibling": "node_4_1595374426834"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Select a hospital provided <a href=\"http://portal.wabag.in/manual/HRD%20Manual/Annexures/Backup/18-may-2011/ANNEXURE%20IIIA%20(Network%20Hospital%20List).xls\" target=\"blank\">here</a> and enter hospital name."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "@Welcome:Hospital",
+      "dialog_node": "node_4_1595374426834",
+      "previous_sibling": "node_8_1595373493696"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "In which area would you like to book an appointment?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Select area",
+            "options": [
+              {
+                "label": "Salt Lake",
+                "value": {
+                  "input": {
+                    "text": "sl"
+                  }
+                }
+              },
+              {
+                "label": "Ruby",
+                "value": {
+                  "input": {
+                    "text": "ruby"
+                  }
+                }
+              }
+            ],
+            "description": "",
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "@Welcome:Appointment",
+      "dialog_node": "node_8_1595373493696"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "OK. See you later."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#General_Ending",
+      "dialog_node": "node_9_1593690044124",
+      "previous_sibling": "node_8_1593689964873"
+    },
+    {
+      "type": "standard",
+      "actions": [
+        {
+          "name": "main_webhook",
+          "type": "webhook",
+          "parameters": {
+            "": ""
+          },
+          "result_variable": "webhook_result_1"
+        }
+      ],
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "Welcome"
+      },
+      "conditions": "#General_Greetings",
+      "dialog_node": "node_8_1593689964873",
+      "previous_sibling": "node_10_1596030643483"
+    },
+    {
+      "type": "standard",
+      "title": "Anything else",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I didn't understand. You can try rephrasing."
+              },
+              {
+                "text": "Can you reword your statement? I'm not understanding."
+              },
+              {
+                "text": "I didn't get your meaning."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "anything_else",
+      "dialog_node": "Anything else",
+      "previous_sibling": "node_9_1593690044124",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Is there any thing i can help you with?",
+            "options": [
+              {
+                "label": "Yes",
+                "value": {
+                  "input": {
+                    "text": "Yes"
+                  }
+                }
+              },
+              {
+                "label": "No",
+                "value": {
+                  "input": {
+                    "text": "No"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "dialog_node": "node_10_1596030643483",
+      "previous_sibling": "Welcome"
+    },
+    {
+      "type": "standard",
+      "title": "Welcome",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hi! I am MediBot!\nI assist in providing realtime vacancies available in a hospital as well as help in finding the pharmacies in which you can get your medication."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Please select an option to help you:",
+            "options": [
+              {
+                "label": "1.Hospitals",
+                "value": {
+                  "input": {
+                    "text": "Hospital"
+                  }
+                }
+              },
+              {
+                "label": "2.Pharmacy",
+                "value": {
+                  "input": {
+                    "text": "pharmacy"
+                  }
+                }
+              }
+            ],
+            "description": "",
+            "response_type": "option"
+          }
+        ]
+      },
+      "conditions": "welcome",
+      "dialog_node": "Welcome"
+    }
+  ],
+  "counterexamples": [],
+  "system_settings": {
+    "off_topic": {
+      "enabled": true
+    },
+    "disambiguation": {
+      "prompt": "Did you mean:",
+      "enabled": true,
+      "randomize": true,
+      "max_suggestions": 5,
+      "suggestion_text_policy": "title",
+      "none_of_the_above_prompt": "None of the above"
+    },
+    "system_entities": {
+      "enabled": true
+    },
+    "human_agent_assist": {
+      "prompt": "Did you mean:"
+    },
+    "spelling_auto_correct": true
+  },
+  "learning_opt_out": false,
+  "name": "Dialogskill test",
+  "language": "en",
+  "description": ""
+}
